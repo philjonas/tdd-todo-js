@@ -1,0 +1,15 @@
+.task-value {
+  width: 30%;
+}
+
+.task-btn {
+  width: 20%;
+}
+
+.task-container {
+  display: flex;
+}
+
+.task-complete {
+  text-decoration: line-through;
+}
