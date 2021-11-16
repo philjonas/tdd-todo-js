@@ -21,9 +21,7 @@
   "scripts": {
     "start": "npx webpack serve",
     "test": "jest --watch",
-
     "build": "npx webpack",
-
     "predeploy": "npm run build",
     "deploy": "gh-pages -d docs"
   },
